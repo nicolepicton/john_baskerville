@@ -16,10 +16,13 @@ History of Type
 ===============
 [Version 1]( https://nicolepicton.github.io/john_baskerville/history-1.html)
 Marking up a block of text with HTML5.
+
 [Version 2]( https://nicolepicton.github.io/john_baskerville/history-2.html)
 Applying CSS Styling to existing HTML as well as adding nav.
+
 [Version 3]( https://nicolepicton.github.io/john_baskerville/history-3.html)
 Adding Google fonts to the webpage.
+
 [Version 4]( https://nicolepicton.github.io/john_baskerville/history-4.html)
 Adding and styling images and a table.
 
