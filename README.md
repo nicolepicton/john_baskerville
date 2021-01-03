@@ -1,16 +1,26 @@
 John Baskerville
 ================
-[Version 1] (https://nicolepicton.github.io/john_baskerville/baskerville-1.html)
+[Version 1](https://nicolepicton.github.io/john_baskerville/baskerville-1.html)
 Adding the initial parts to the webpage, marking up using some plain HTML.
 
-[Version 2] (https://nicolepicton.github.io/john_baskerville/baskerville-2.html)
+[Version 2](https://nicolepicton.github.io/john_baskerville/baskerville-2.html)
 Applying basic CSS styling to a copied version of the initial HTML.
 
-[Version 3] (https://nicolepicton.github.io/john_baskerville/baskerville-3.html)
+[Version 3](https://nicolepicton.github.io/john_baskerville/baskerville-3.html)
 Adding Fonts to the webpage.
 
-[Version 4] (https://nicolepicton.github.io/john_baskerville/baskerville-4.html)
+[Version 4](https://nicolepicton.github.io/john_baskerville/baskerville-4.html)
 Adding images and a table to the webpage and finalising styling.
 
-[CSS Exercise] (https://nicolepicton.github.io/john_baskerville/css-exercise.html)
+History of Type
+===============
+[Version 1](https://nicolepicton.github.io/john_baskerville/history-1.html)
+[Version 2](https://nicolepicton.github.io/john_baskerville/history-2.html)
+[Version 3](https://nicolepicton.github.io/john_baskerville/history-3.html)
+[Version 4](https://nicolepicton.github.io/john_baskerville/history-4.html)
+
+CSS Exercise
+=============
+
+[CSS Exercise](https://nicolepicton.github.io/john_baskerville/css-exercise.html)
 Completing a CSS exercise whereby I marked up and styled three versions of text in different ways.
