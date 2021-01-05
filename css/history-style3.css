@@ -19,19 +19,17 @@ body {
 /*------ TYPOGRAPHY ------*/
 h1 {
 	font-weight: normal;
-	color: #3b0e96;
 	text-align: center;
 	font-size: 68px;
 	margin-top: 3em;
 	margin-bottom: 8px;
-	font-weight: 2px;
 	color: #968e0e;
 	font-family: 'Vollkorn', serif;
 }
 
 h2 {
 	font-weight: normal;
-	color: #3b0e96;
+	color: #968e0e;
 	text-align: center;
 	font-size: 38px;
 	margin-top: 1.6em;
@@ -41,10 +39,10 @@ h2 {
 
 h3 {
 	font-weight: normal;
-	color: #968e0e;
 	text-align: center;
 	font-size: 32px;
 	margin-top: 80px;
+	color: #968e0e;
 	margin-bottom: 8px;
 	font-family: 'Vollkorn', serif;
 }
